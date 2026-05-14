@@ -4,8 +4,8 @@ This section focuses on improving problem-solving skills using JavaScript.
 
 ## Topics Covered
 
-- Loops
 - Conditionals
+- Loops
 - Functions
 - Nested Loops
 - Patterns
