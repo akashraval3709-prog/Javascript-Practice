@@ -73,6 +73,15 @@ Concepts used:
 - Conditions
 - String checking
 - Boolean logic
+  
+---
+### 05_function_multiply.js
+A simple JavaScript function that multiplies two numbers and returns the result.
 
+Concepts used:
+- Functions
+- Parameters
+- Return keyword
+- Function hoisting
 
   
