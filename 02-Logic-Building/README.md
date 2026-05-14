@@ -2,6 +2,8 @@
 
 This section focuses on improving problem-solving skills using JavaScript.
 
+---
+
 ## Topics Covered
 
 - Conditionals
@@ -11,6 +13,8 @@ This section focuses on improving problem-solving skills using JavaScript.
 - Patterns
 - Arrays Basics
 - Switch Statements
+  
+---
 
 ## Practice Goals
 
@@ -20,6 +24,7 @@ This section focuses on improving problem-solving skills using JavaScript.
 - Prepare for real-world projects
 
 ---
+
 ## Files
 
 ### 01_temperature_checker.js
@@ -75,7 +80,9 @@ Concepts used:
 - Boolean logic
   
 ---
+
 ### 05_function_multiply.js
+
 A simple JavaScript function that multiplies two numbers and returns the result.
 
 Concepts used:
