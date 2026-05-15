@@ -101,3 +101,14 @@ Concepts used:
 - Modulus operator
 - Conditional statements
 - Return values
+
+---
+
+### 07_power_function.js
+A JavaScript arrow function that calculates the power of a number using the exponentiation operator (**).
+
+Concepts used:
+- Arrow functions
+- Parameters
+- Return values
+- Exponentiation operator
