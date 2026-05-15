@@ -91,4 +91,13 @@ Concepts used:
 - Return keyword
 - Function hoisting
 
-  
+---
+
+### 06_even_odd_checker.js
+A JavaScript program that checks whether a number is even or odd using an arrow function.
+
+Concepts used:
+- Arrow functions
+- Modulus operator
+- Conditional statements
+- Return values
