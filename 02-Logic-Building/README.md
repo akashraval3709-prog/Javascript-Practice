@@ -112,3 +112,14 @@ Concepts used:
 - Parameters
 - Return values
 - Exponentiation operator
+
+---
+
+### 08_positive_negative_zero.js
+A JavaScript program that checks whether a number is positive, negative, or zero using conditional statements.
+
+Concepts used:
+- Arrow functions
+- if-else conditions
+- Comparison operators
+- Return values
