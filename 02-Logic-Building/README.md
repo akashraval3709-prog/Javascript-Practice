@@ -123,3 +123,14 @@ Concepts used:
 - if-else conditions
 - Comparison operators
 - Return values
+
+---
+
+### 07_max_number.js
+A JavaScript program that compares two numbers and returns the maximum number using conditional statements.
+
+Concepts used:
+- Arrow functions
+- if-else conditions
+- Comparison operators
+- Template literals
