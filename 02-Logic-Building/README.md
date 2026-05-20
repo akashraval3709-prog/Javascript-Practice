@@ -126,7 +126,7 @@ Concepts used:
 
 ---
 
-### 07_max_number.js
+### 09_max_number.js
 A JavaScript program that compares two numbers and returns the maximum number using conditional statements.
 
 Concepts used:
@@ -134,3 +134,25 @@ Concepts used:
 - if-else conditions
 - Comparison operators
 - Template literals
+
+---
+
+### 10_empty_string_checker.js
+A JavaScript program that checks whether a string is empty or not using the trim() method and conditional statements.
+
+Concepts used:
+- Arrow functions
+- String methods
+- trim()
+- if-else conditions
+
+---
+
+### 11_check_login.js
+A JavaScript program that validates username and password using conditional statements.
+
+Concepts used:
+- Arrow functions
+- Logical operators
+- if-else conditions
+- Authentication logic
