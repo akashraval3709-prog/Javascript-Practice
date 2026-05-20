@@ -156,3 +156,19 @@ Concepts used:
 - Logical operators
 - if-else conditions
 - Authentication logic
+
+---
+
+### 12_check_fizzbuzz.js
+A JavaScript program that checks whether a number is divisible by 3, 5, or both using conditional statements.
+
+Outputs:
+- Fizz
+- Buzz
+- FizzBuzz
+
+Concepts used:
+- Arrow functions
+- Modulus operator
+- if-else conditions
+- Logical operators
