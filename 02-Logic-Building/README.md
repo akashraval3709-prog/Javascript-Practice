@@ -172,3 +172,18 @@ Concepts used:
 - Modulus operator
 - if-else conditions
 - Logical operators
+
+---
+
+### 13_array_operations.js
+A JavaScript program demonstrating basic array operations such as accessing elements, updating values, push, pop, shift, unshift, and looping through arrays.
+
+Concepts used:
+- Arrays
+- Array indexing
+- push()
+- pop()
+- shift()
+- unshift()
+- for loop
+- Array length
