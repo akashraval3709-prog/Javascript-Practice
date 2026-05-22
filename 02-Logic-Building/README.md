@@ -187,3 +187,14 @@ Concepts used:
 - unshift()
 - for loop
 - Array length
+
+---
+
+### 02_sum_of_array_elements.js
+A JavaScript program that calculates the sum of all elements in an array using a for loop.
+
+Concepts used:
+- Arrays
+- for loop
+- Array length
+- Accumulator variable
