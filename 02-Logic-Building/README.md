@@ -190,7 +190,7 @@ Concepts used:
 
 ---
 
-### 02_sum_of_array_elements.js
+### 14_sum_of_array_elements.js
 A JavaScript program that calculates the sum of all elements in an array using a for loop.
 
 Concepts used:
@@ -198,3 +198,14 @@ Concepts used:
 - for loop
 - Array length
 - Accumulator variable
+
+---
+
+### 15_find_max_number.js
+A JavaScript program that finds the maximum number in an array using loops and comparison logic.
+
+Concepts used:
+- Arrays
+- for loop
+- Comparison operators
+- Maximum value logic
