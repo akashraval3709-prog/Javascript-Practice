@@ -221,3 +221,15 @@ Concepts used:
 - Modulus operator
 - push()
 - Conditional logic
+
+---
+
+### 17_double_numbers.js
+A JavaScript program that doubles array elements using the map() method and functions.
+
+Concepts used:
+- Arrays
+- map()
+- Arrow functions
+- Callback functions
+- Function declarations
