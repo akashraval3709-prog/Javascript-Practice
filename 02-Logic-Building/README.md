@@ -209,3 +209,15 @@ Concepts used:
 - for loop
 - Comparison operators
 - Maximum value logic
+
+---
+
+### 16_even_odd_array.js
+A JavaScript program that separates even and odd numbers from an array using loops and conditional statements.
+
+Concepts used:
+- Arrays
+- for loop
+- Modulus operator
+- push()
+- Conditional logic
