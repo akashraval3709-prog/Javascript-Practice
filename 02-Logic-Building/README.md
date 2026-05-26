@@ -256,3 +256,14 @@ Concepts used:
 - Arrow functions
 - Callback functions
 - Modulus operator
+
+---
+
+### 20_array_sum_reduce.js
+A JavaScript program that calculates the total sum of array elements using the reduce() method.
+
+Concepts used:
+- Arrays
+- reduce()
+- Arrow functions
+- Accumulator pattern
