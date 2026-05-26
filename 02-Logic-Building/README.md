@@ -236,6 +236,38 @@ Concepts used:
 
 ---
 
+### 18_capitalize_names.js
+A JavaScript program that converts array string elements into uppercase using the map() method.
+
+Concepts used:
+- Arrays
+- map()
+- Arrow functions
+- String methods
+- toUpperCase()
+
+---
+### 19_filter_even_numbers.js
+A JavaScript program that filters even numbers from an array using the filter() method.
+
+Concepts used:
+- Arrays
+- filter()
+- Arrow functions
+- Callback functions
+- Modulus operator
+
+---
+
+### 20_array_sum_reduce.js
+A JavaScript program that calculates the total sum of array elements using the reduce() method.
+
+Concepts used:
+- Arrays
+- reduce()
+- Arrow functions
+- Accumulator pattern
+
 
 ---
 
