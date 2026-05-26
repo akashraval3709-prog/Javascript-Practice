@@ -233,3 +233,15 @@ Concepts used:
 - Arrow functions
 - Callback functions
 - Function declarations
+
+---
+
+### 18_capitalize_names.js
+A JavaScript program that converts array string elements into uppercase using the map() method.
+
+Concepts used:
+- Arrays
+- map()
+- Arrow functions
+- String methods
+- toUpperCase()
