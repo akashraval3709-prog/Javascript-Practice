@@ -245,3 +245,14 @@ Concepts used:
 - Arrow functions
 - String methods
 - toUpperCase()
+
+---
+### 19_filter_even_numbers.js
+A JavaScript program that filters even numbers from an array using the filter() method.
+
+Concepts used:
+- Arrays
+- filter()
+- Arrow functions
+- Callback functions
+- Modulus operator
