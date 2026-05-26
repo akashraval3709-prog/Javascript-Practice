@@ -267,3 +267,15 @@ Concepts used:
 - reduce()
 - Arrow functions
 - Accumulator pattern
+
+---
+
+### 21_total_product_price.js
+A JavaScript program that calculates the total price of products using the reduce() method.
+
+Concepts used:
+- Arrays
+- reduce()
+- Arrow functions
+- Accumulator pattern
+- Array calculations
