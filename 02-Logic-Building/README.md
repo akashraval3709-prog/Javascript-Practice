@@ -291,3 +291,14 @@ Concepts used:
 - filter()
 - Callback functions
 - Comparison operators
+
+---
+
+### 23_square_numbers.js
+A JavaScript program that calculates the square of array elements using the map() method.
+
+Concepts used:
+- Arrays
+- map()
+- Callback functions
+- Exponentiation operator
