@@ -280,3 +280,14 @@ Concepts used:
 - Arrow functions
 - Accumulator pattern
 - Array calculations
+
+---
+
+### 22_filter_positive_numbers.js
+A JavaScript program that filters positive numbers from an array using the filter() method.
+
+Concepts used:
+- Arrays
+- filter()
+- Callback functions
+- Comparison operators
