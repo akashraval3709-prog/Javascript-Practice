@@ -316,3 +316,16 @@ Concepts used:
 - Average calculation
 
 ---
+
+### 25_greeting_messages.js
+A JavaScript program that creates greeting messages from array elements using the map() method.
+
+Concepts used:
+- Arrays
+- map()
+- Arrow functions
+- Template literals
+- String manipulation
+
+---
+
