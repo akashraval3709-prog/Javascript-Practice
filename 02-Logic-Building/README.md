@@ -302,3 +302,17 @@ Concepts used:
 - map()
 - Callback functions
 - Exponentiation operator
+
+---
+
+### 24_find_average.js
+A JavaScript program that calculates the average of array elements using the reduce() method.
+
+Concepts used:
+- Arrays
+- reduce()
+- Functions
+- Accumulator pattern
+- Average calculation
+
+---
