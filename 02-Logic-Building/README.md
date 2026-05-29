@@ -329,3 +329,15 @@ Concepts used:
 
 ---
 
+### 26_shopping_cart_total.js
+A JavaScript program that calculates the total price of shopping cart items using the reduce() method.
+
+Concepts used:
+- Arrays of objects
+- reduce()
+- Object properties
+- Arrow functions
+- Accumulator pattern
+
+---
+
