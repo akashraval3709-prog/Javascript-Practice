@@ -341,3 +341,13 @@ Concepts used:
 
 ---
 
+### 27_student_object.js
+A JavaScript program that demonstrates object creation, property access, updating values, adding new properties, deleting properties, looping through object keys, and object destructuring.
+
+Concepts used:
+- Objects
+- Property access
+- Property update
+- Adding and deleting properties
+- for...in loop
+- Object destructuring
