@@ -1,4 +1,4 @@
-🌐 03 - DOM Manipulation
+🌐 03-DOM Manipulation
 ========================
 
 This section is about interacting with web pages using JavaScript.
