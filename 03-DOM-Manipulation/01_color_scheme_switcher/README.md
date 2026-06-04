@@ -2,6 +2,11 @@
 
 A simple JavaScript DOM Manipulation project that changes the webpage background color when users click on different color buttons.
 
+
+## 🚀 Live Demo
+You can view the live project here:  
+👉 [Live Project Link](https://akashraval3709-prog.github.io/Javascript-Practice/03-DOM-Manipulation/01_color_scheme_switcher/)
+
 ## Features
 
 - Change background color dynamically
