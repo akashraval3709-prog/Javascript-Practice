@@ -3,8 +3,9 @@
 A simple and interactive BMI (Body Mass Index) Calculator built using HTML, CSS, and JavaScript. Users can enter their height and weight to instantly calculate their BMI and understand their health category.
 
 ## 🚀 Live Demo
+You can view the live project here:  
+👉 [Live Project Link](https://akashraval3709-prog.github.io/Javascript-Practice/03-DOM-Manipulation/BMIGenerator/)
 
-Coming Soon...
 
 ---
 
