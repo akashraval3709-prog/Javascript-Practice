@@ -12,6 +12,8 @@ A collection of beginner-friendly JavaScript projects focused on learning and pr
 * Traversing the DOM tree
 * Handling user interactions
 * Building dynamic web pages
+* Working with forms and validation
+* Using JavaScript Date API
 
 ---
 
@@ -38,6 +40,10 @@ A collection of beginner-friendly JavaScript projects focused on learning and pr
 * `classList`
 * DOM Traversal
 * Event Handling
+* Form Validation
+* Date Object
+* `setInterval()`
+* Dynamic Styling
 
 ---
 
@@ -46,13 +52,34 @@ A collection of beginner-friendly JavaScript projects focused on learning and pr
 ```text
 03-DOM-Manipulation/
 │
-├── 01-Element-Selection/
-├── 02-Create-Remove-Elements/
-├── 03-Attribute-Manipulation/
-├── 04-DOM-Traversal/
-├── 05-Event-Handling/
+├── 01_color_scheme_switcher/
+├── BMIGenerator/
+├── DigitalClock/
 └── README.md
 ```
+
+---
+
+## 📌 Projects Included
+
+### 1. Color Scheme Switcher
+
+* Change background colors dynamically
+* DOM selection and event handling
+* Dynamic CSS manipulation
+
+### 2. BMI Generator
+
+* BMI calculation based on user input
+* Form validation
+* Conditional rendering of results
+
+### 3. Digital Clock
+
+* Real-time clock using JavaScript
+* Date API
+* setInterval()
+* Dynamic content updates
 
 ---
 
@@ -67,4 +94,3 @@ To understand how JavaScript interacts with HTML elements and to develop practic
 **Akash Raval**
 
 Python Developer Aspirant | Learning Cyber Security & Web Development
-
