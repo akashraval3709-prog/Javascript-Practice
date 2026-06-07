@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Change Background Color</title>
+
+<style>
+    .dark-bg{
+        background-color: #d1d1d1;
+    }
+    .dark{
+        background-color: black;
+        color: white;
+    }
+</style>
+</head>
+
+<body>
+    <h1 id="heading">Change BG color </h1>
+    <button id="btn">Change bg-color</button>
+</body>
+<script>
+    let button = document.getElementById('btn');
+    //    console.log();
+
+    button.addEventListener('click', function () {
+
+        let heading = document.getElementById("heading");
+
+        heading.classList.toggle("dark");
+        let bg = document.body;
+        bg.classList.toggle('dark-bg')
+        localStorage.setItem("theme", "dark");
+        //    let heading =document.getElementById('heading')
+
+        // heading.style.backgroundColor = '#59b8e4';
+        // heading.style.color ='#1d2121'
+        // document.body.style.backgroundColor = '#d1d1d1'
+
+
+    })
+</script>
+
+</html>
