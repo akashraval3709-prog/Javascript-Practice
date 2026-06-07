@@ -55,6 +55,7 @@ A collection of beginner-friendly JavaScript projects focused on learning and pr
 ├── 01_color_scheme_switcher/
 ├── BMIGenerator/
 ├── DigitalClock/
+├── ThemeToggle/
 └── README.md
 ```
 
@@ -80,6 +81,15 @@ A collection of beginner-friendly JavaScript projects focused on learning and pr
 * Date API
 * setInterval()
 * Dynamic content updates
+
+### 4. Theme Toggle
+
+* Switch between different page themes
+* Use classList.toggle() for dynamic styling
+* Event handling with button clicks
+* DOM manipulation and CSS class management
+
+
 
 ---
 
