@@ -6,7 +6,7 @@ A simple JavaScript DOM Manipulation project that displays user input in real ti
 
 You can view the live project here:
 
-👉 [Live Project Link](https://akashraval3709-prog.github.io/Javascript-Practice/03-DOM-Manipulation/05_live_message_preview/)
+👉 [Live Project Link](https://akashraval3709-prog.github.io/Javascript-Practice/03-DOM-Manipulation/live_message_preview/)
 
 ---
 
