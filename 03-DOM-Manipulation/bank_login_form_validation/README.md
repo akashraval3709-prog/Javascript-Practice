@@ -6,7 +6,7 @@ A simple JavaScript project that validates a bank account number and password be
 
 You can view the live project here:
 
-👉[Live Project Link](https://akashraval3709-prog.github.io/Javascript-Practice/03-DOM-Manipulation/06_bank_login_form_validation/)
+👉[Live Project Link](https://akashraval3709-prog.github.io/Javascript-Practice/03-DOM-Manipulation/bank_login_form_validation/)
 
 ---
 
