@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bank Form</title>
+    <style>
+     
+:root {
+    --bg-light: #f4f6f9;
+    --bg-card: #ffffff;
+    --primary-blue: #2563eb;
+    --primary-hover: #1d4ed8;
+    --text-main: #1e293b;
+    --text-muted: #334155;
+    --border-color: #cbd5e1;
+    --disabled-color: #94a3b8;
+}
+
+
+body {
+    background-color: var(--bg-light);
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+
+#regFrom {
+    background-color: var(--bg-card);
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    width: 100%;
+    max-width: 380px;
+}
+
+#regFrom h2 {
+    color: var(--text-main);
+    margin-bottom: 20px;
+    font-size: 22px;
+    text-align: center;
+}
+
+.input-group {
+    margin-bottom: 15px;
+}
+
+#regFrom input {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    font-size: 14px;
+    color: var(--text-muted);
+    box-sizing: border-box;
+    transition: border-color 0.2s;
+}
+
+#regFrom input:focus {
+    outline: none;
+    border-color: var(--primary-blue);
+}
+
+
+#regFrom p {
+    font-size: 12px;
+    margin-top: 5px;
+    padding-left: 2px;
+    min-height: 16px;
+}
+
+
+#regFrom button {
+    width: 100%;
+    padding: 12px;
+    background-color: var(--primary-blue);
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+#regFrom button:hover {
+    background-color: var(--primary-hover);
+}
+
+#regFrom button:disabled {
+    background-color: var(--disabled-color);
+    cursor: not-allowed;
+}
+    </style>
+</head>
+<body>
+   <form id="regFrom">
+       <input type="text" id="bNUm" placeholder="Enter 10 Digit Acc Number" >
+       <p class="errorMsg"></p>
+    <input type="password" id="pass" placeholder="enter password (jay@84)"><br>
+    <p class="errorPass"></p>
+    <button>Submit</button>
+   
+   </form> 
+   <script src="script.js"></script>
+</body>
+</html>
