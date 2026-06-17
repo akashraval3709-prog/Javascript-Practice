@@ -2,6 +2,28 @@ const regFrom = document.querySelector('#regFrom')
 const button = document.querySelector('button')
 let login = false
 
+const bNUm=document.querySelector('#bNUm') 
+
+bNUm.addEventListener('input' , ()=>{
+   
+    let msg = document.querySelector('.msg')
+
+    if(bNUm.value.length < 10)
+    { msg.style.color='red'
+          msg.textContent='Typing... (Must be 10 digits)'
+    }
+    else if(bNUm.value.length == 10){
+
+        msg.style.color='green'
+          msg.textContent='Perfect 10 Digits!'
+    }
+    else{
+         msg.style.color='orangered'
+          msg.textContent='Too long! Exceeded 10 digits!'
+    }
+
+})
+
 regFrom.addEventListener('submit', (e) => {
     let accnum = false
     let pass = false
