@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-commerce Billing</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+
+
+        body {
+            background-color: #f4f6f9;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+
+        .form {
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            width: 100%;
+            max-width: 450px;
+        }
+
+        h1 {
+            color: #1e293b;
+            font-size: 20px;
+            margin-bottom: 25px;
+            text-align: center;
+            line-height: 1.4;
+        }
+
+
+        .container {
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        #accountType {
+            width: 100%;
+            padding: 12px;
+            font-size: 15px;
+            color: #334155;
+            border: 1px solid #cbd5e1;
+            border-radius: 6px;
+            background-color: #ffffff;
+            cursor: pointer;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+
+
+        #accountType:focus,
+         #accountType:hover
+         {
+            border-color: #0051ff;
+        }
+
+        .interestMsg {
+            font-size: 0.90rem;
+            font-weight: 500;
+
+        }
+    </style>
+</head>
+
+<body>
+
+
+    <form class="form">
+       <h1>Account Type Interest Calculator</h1>
+
+        <div class="container">
+
+            <select id="accountType">
+                <option value="" disabled selected>Select Account Type</option>
+                <option value="saving">Saving</option>
+                <option value="current">Current</option>
+                <option value="loan">Loan</option>
+            </select>
+            <p class="interestMsg"></p>
+        </div>
+    </form>
+    <script src="script.js"></script>
+</body>
+
+</html>
