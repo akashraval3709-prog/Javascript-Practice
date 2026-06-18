@@ -1,6 +1,6 @@
 # 🏦 Bank Login Form Validation
 
-A simple JavaScript project that validates a bank account number and password before allowing login. The application provides real-time feedback messages and prevents invalid form submissions.
+A simple JavaScript project that validates a bank account number and password before allowing login. The application provides real-time validation feedback, error messages, and prevents invalid form submissions.
 
 ## 🚀 Live Demo
 
@@ -14,9 +14,10 @@ You can view the live project here:
 
 * Account number validation
 * Password validation
-* Error and success messages
+* Real-time account number checking
+* Dynamic validation messages
+* Error and success notifications
 * Prevents invalid form submission
-* Login success notification
 * Beginner-friendly DOM Manipulation project
 
 ---
@@ -34,6 +35,7 @@ You can view the live project here:
 * DOM Manipulation
 * querySelector()
 * Form Validation
+* Input Events
 * Event Handling
 * preventDefault()
 * Conditional Statements
@@ -46,7 +48,7 @@ You can view the live project here:
 ## 📂 Project Structure
 
 ```text
-06_bank_login_form_validation/
+bank_login_form_validation/
 │
 ├── index.html
 ├── script.js
@@ -62,6 +64,7 @@ You can view the live project here:
 * Cannot be empty
 * Must contain exactly 10 digits
 * Only numeric values are allowed
+* Real-time validation while typing
 
 ### Password
 
@@ -72,7 +75,7 @@ You can view the live project here:
 
 ## 🎯 Project Goal
 
-To practice JavaScript form validation, DOM manipulation, and event handling by building a simple bank login system.
+To practice JavaScript form validation, input events, DOM manipulation, and event handling by building a simple bank login system.
 
 ---
 
