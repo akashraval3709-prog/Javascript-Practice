@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Bank OTP Security Gate</title>
+    <style>
+        body{
+            background-color: #ffffff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 50vh;
+
+        }
+
+        #otpForm{
+            background-color: aliceblue;
+            width: 450px;
+            padding: 20px;
+           border-radius: 20px;
+           text-align: center;
+        }
+
+    .input-field input{
+        padding: 5px;
+        
+        margin-bottom: 10px;
+        border: radius 6px; 
+        border: 1px solid #ddd;
+       
+
+
+        }
+
+        #otpForm input:focus{
+            outline: none;
+            border-color: #0000ff;
+        }
+
+        .btn{
+            background-color: #03be03;
+            border: none;
+            padding:10px;
+            font-weight: 600;
+            border-radius: 7px;
+        }
+        h1{
+            font-weight: 600;
+            font-size: 2.2rem;
+        }
+      .statusMsg {
+            color: #ff0000;
+            font-size: 0.99rem
+        }
+       
+    </style>
+</head>
+<body>
+   <form id="otpForm">
+    <h1>Secure OTP Verification</h1>
+    <p class="subtitle">Axis Secure Banking Terminal</p>
+
+    <p class="statusMsg"></p>
+
+    <div class="input-field">
+        <label for="otpInput">Enter 4-Digit OTP:</label>
+        <input type="text" id="otpInput" placeholder="X X X X" maxlength="4" disabled>
+    </div>
+
+    <button type="button" id="otpBtn" class="btn">Get OTP</button>
+</form>
+    <script src="script.js"></script>
+</body>
+</html>
