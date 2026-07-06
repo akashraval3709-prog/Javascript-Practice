@@ -1,6 +1,6 @@
 # 🚀 Modern JavaScript (ES6)
 
-A collection of JavaScript programs demonstrating modern ES6 features such as object destructuring, array destructuring, spread operators, default values, nested destructuring, and concise syntax.
+A collection of JavaScript programs demonstrating modern ES6 features such as object destructuring, array destructuring, spread operators, rest parameters, object rest properties, default values, nested destructuring, and concise syntax.
 
 ## 📂 Files
 
@@ -32,6 +32,20 @@ A collection of JavaScript programs demonstrating modern ES6 features such as ob
 * Inserting additional elements
 * Creating new array copies
 
+### 05_Rest_Parameters.js
+
+* Rest parameters
+* Variable number of function arguments
+* Summing multiple values
+* Using `forEach()` with rest parameters
+
+### 06_Object_Rest_Properties.js
+
+* Object rest properties
+* Object destructuring with rest operator
+* Excluding specific properties
+* Creating a new object with remaining properties
+
 ## 📚 Concepts Covered
 
 * ES6
@@ -42,10 +56,13 @@ A collection of JavaScript programs demonstrating modern ES6 features such as ob
 * Variable Renaming
 * Object Spread Operator
 * Array Spread Operator
+* Rest Parameters
+* Object Rest Properties
 * Copying Objects & Arrays
 * Merging Arrays
 * Immutable Data Handling
+* Variable-Length Function Arguments
 
 ## 🎯 Goal
 
-To understand and practice modern JavaScript (ES6) features, including destructuring and spread operators, for writing cleaner, more readable, and maintainable code.
+To understand and practice modern JavaScript (ES6) features, including destructuring, spread operators, and rest syntax, for writing cleaner, more readable, reusable, and maintainable code.
