@@ -1,0 +1,1 @@
+export function calculateGST(price) { return price * 0.18; }
