@@ -22,6 +22,7 @@ A collection of JavaScript examples demonstrating how to use the Fetch API to co
 06-Fetch-API/
 │
 ├── 01_fetch_dashboard_data.js
+├── 02_fetch_github_user.js
 └── README.md
 ```
 
@@ -37,6 +38,25 @@ A collection of JavaScript examples demonstrating how to use the Fetch API to co
 - Parses JSON data
 - Handles errors using `try...catch`
 - Executes cleanup using `finally`
+
+---
+
+## 02_fetch_github_user.js
+
+A JavaScript example demonstrating how to fetch GitHub user information using the Fetch API with `async/await` and proper HTTP error handling.
+
+### Concepts Used
+
+- Fetch API
+- GET Request
+- async
+- await
+- Promise
+- Response Object
+- JSON Parsing
+- try...catch
+- finally
+- HTTP Status Validation
 
 ---
 
