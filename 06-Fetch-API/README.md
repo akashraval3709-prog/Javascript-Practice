@@ -13,6 +13,16 @@ A collection of JavaScript examples demonstrating how to use the Fetch API to co
 - try...catch
 - finally
 - HTTP Error Handling
+- Working with Public APIs
+
+---
+
+## 🛠️ Technologies Used
+
+- JavaScript (ES6)
+- Fetch API
+- REST APIs
+- JSON
 
 ---
 
@@ -23,6 +33,7 @@ A collection of JavaScript examples demonstrating how to use the Fetch API to co
 │
 ├── 01_fetch_dashboard_data.js
 ├── 02_fetch_github_user.js
+├── 03_fetch_movies.js
 └── README.md
 ```
 
@@ -39,30 +50,27 @@ A collection of JavaScript examples demonstrating how to use the Fetch API to co
 - Handles errors using `try...catch`
 - Executes cleanup using `finally`
 
----
+### 02_fetch_github_user.js
 
-## 02_fetch_github_user.js
+- Fetches GitHub user information
+- Uses the GitHub REST API
+- Parses JSON response
+- Handles HTTP errors
+- Displays user data using `console.table()`
 
-A JavaScript example demonstrating how to fetch GitHub user information using the Fetch API with `async/await` and proper HTTP error handling.
+### 03_fetch_movies.js
 
-### Concepts Used
-
-- Fetch API
-- GET Request
-- async
-- await
-- Promise
-- Response Object
-- JSON Parsing
-- try...catch
-- finally
-- HTTP Status Validation
+- Fetches movie data from the Studio Ghibli API
+- Uses Fetch API with `async/await`
+- Parses JSON response
+- Displays movie information
+- Handles API errors using `try...catch`
 
 ---
 
 ## 🎯 Goal
 
-To understand how to consume REST APIs using the JavaScript Fetch API and implement proper asynchronous error handling.
+To understand how to consume REST APIs using the JavaScript Fetch API, process JSON responses, and implement proper asynchronous error handling.
 
 ---
 
